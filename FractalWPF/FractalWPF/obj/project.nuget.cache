@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXYCpDTG+ojLCLa+zkesar7PvKn6gBeonQCrxvA0sutQTgkxks5TkXYj1pz35xAJCHRyVVXPGEalZWtlW9f5Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loxam\\Desktop\\MyProjects\\FractalWPF\\FractalWPF\\FractalWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loxam\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\loxam\\.nuget\\packages\\pixieditor.colorpicker\\3.1.0\\pixieditor.colorpicker.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
